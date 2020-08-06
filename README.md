@@ -1,4 +1,4 @@
-# flutterappconnecttoserver
+# flutter app connected to server
 
 A flutter application that is connected to the web server through php and mysql
 
